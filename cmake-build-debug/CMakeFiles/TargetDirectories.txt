@@ -1,0 +1,3 @@
+/Users/melmathewpalana/CLionProjects/Notes-App/cmake-build-debug/CMakeFiles/Notes_App.dir
+/Users/melmathewpalana/CLionProjects/Notes-App/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/melmathewpalana/CLionProjects/Notes-App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
